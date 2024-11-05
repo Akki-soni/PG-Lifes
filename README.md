@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Valentine-Day Card</h1>
+<h1 align="center">PG - Life</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  This is a simple Valentine-Day Card Using HTML, CSS, and JavaScript.
+  This is a simple PG - Life Web Design Using HTML, CSS, and JavaScript.
 </p>
 
 ## 🛠️ Technologies Used
 
 - **HTML**: Markup structure for the app.
 - **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
+- **JavaScript**: Functionality to add, edit, delete, and store rooms using local storage.
 
 ## 🚀 Project Setup
 
@@ -31,7 +31,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Valentine-Day-Card.git>
-cd valentine-day card
+cd pg life
 open index.html
 ```
 
@@ -45,11 +45,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Card_Screenshot](/V-C_Screenshot.png)
+![Card_Screenshot]()
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://valentine-day-card-lemon.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
