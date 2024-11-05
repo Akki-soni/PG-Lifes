@@ -30,7 +30,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Valentine-Day-Card.git>
+git clone <https://github.com/Akki-soni/PG-Lifes.git>
 cd pg life
 open index.html
 ```
@@ -45,7 +45,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Card_Screenshot]()
+![Card_Screenshot](/PG_Screenshot.png)
 
 ## 🔗 Live Demo
 
